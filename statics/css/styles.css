@@ -1,0 +1,23 @@
+body
+{
+	background: #fff;
+}
+section
+{
+	margin: 0 auto;
+}
+section figure
+{
+	width: 100px;
+}
+section figure img
+{
+	width: 100%;
+	margin: 0 auto;
+}
+footer
+{
+	margin: 0 auto;
+	color: #666;
+	text-align: center;
+}
